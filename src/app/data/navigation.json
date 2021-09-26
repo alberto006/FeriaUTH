@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "linkText": "Inicio",
+        "child": true,
+        "submenu": [
+            {
+                "id": 11,
+                "link": "/",
+                "linkText": "Home v1"
+            },
+            {
+                "id": 12,
+                "link": "/home-v2",
+                "linkText": "Home v2"
+            },
+            {
+                "id": 13,
+                "link": "/home-v3",
+                "linkText": "Home v3"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "linkText": "Registro",
+        "link": "/about"
+    },
+    {
+        "id": 3,
+        "linkText": "Proyectos",
+        "child": true,
+        "submenu": [
+            {
+                "id": 31,
+                "link": "/speakers",
+                "linkText": "Our Speakers"
+            },
+            {
+                "id": 32,
+                "link": "/speaker-details/1",
+                "linkText": "Speakers Details"
+            }
+        ]
+    }
+    
+]
