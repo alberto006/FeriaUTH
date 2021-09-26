@@ -1,6 +1,9 @@
 Es necesario tener instalado NodeJS 12+
+
 Node Package Manager - NPM 
+
 Angular CLI 
+
   -npm installl -g @angular/cli
 
 
